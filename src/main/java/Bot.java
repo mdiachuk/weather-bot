@@ -38,7 +38,7 @@ public class Bot extends AbilityBot {
 
     public Ability startCommand() {
         String message = "Привіт! Щоб отримати дані про погоду на даний момент використовуй команду /current" +
-                "\n\nДетальний прогноз на 5 наступних днів — команда /5days";
+                "\n\nДетальний прогноз на 5 наступних днів — команда /forecast";
         return Ability
                 .builder()
                 .name("start")
