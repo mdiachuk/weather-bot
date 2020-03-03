@@ -1,1 +1,1 @@
-weatherizer: sh target/bin/weatherizerBot
+worker: sh target/bin/weatherizerBot
