@@ -1,0 +1,1 @@
+weatherizer: sh target/bin/weatherizerBot
